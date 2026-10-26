@@ -1,0 +1,6 @@
+{
+  "name": "AK Taxmitra AI",
+  "description": "AI-First Business, Tax & Compliance Operating System. One App. Every Taxpayer. Every CA. Every Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
